@@ -1,0 +1,12 @@
+SOAP artitechture - xml based
+Rest- Represtational State Transfer  - Json based
+Api - application program interface (endpoint) program handling request
+Http MEthods 
+Get 
+Post 
+Put
+Patch
+Delete
+
+//REACT QUIZ
+
